@@ -1,0 +1,25 @@
+{
+  "name": "covid-counter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScaledFlow/covid-counter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ScaledFlow/covid-counter/issues"
+  },
+  "homepage": "https://github.com/ScaledFlow/covid-counter#readme",
+  "dependencies": {
+    "crypto-price": "0.0.6",
+    "finnhub": "^1.1.7",
+    "mysql": "^2.18.1",
+    "request": "^2.88.2"
+  }
+}
